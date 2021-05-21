@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author Hileamlak M. Yitayew
+#Author Nicholas R.
 <<<<<<< HEAD
 """Defines a function that can multiply
 two matrices"""
