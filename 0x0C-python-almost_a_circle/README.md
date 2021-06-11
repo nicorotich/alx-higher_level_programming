@@ -1,6 +1,6 @@
 # Python - Almost a circle
 
-In this Folder, there are exercies done on pythond object oriented program to exercies different consepts. The concepts used are listed blow. This concepts were practiced using three calsses which are related by inheritance.
+In this Folder, there are exercises on python object oriented programming to try out different concepts. The concepts used are listed blow. This concepts were practiced using three classes which are related by inheritance.
 
 The three classes involved utilizing the following Python tools:
 * Import
